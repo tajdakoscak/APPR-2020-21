@@ -5,10 +5,25 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2020/21
 * [![Shiny](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/tajdakoscak/APPR-2020-21/master?urlpath=shiny/APPR-2020-21/projekt.Rmd) Shiny
 * [![RStudio](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/tajdakoscak/APPR-2020-21/master?urlpath=rstudio) RStudio
 
-## Tematika
+## Analiza najbolj gledanih Youtube kanalov
 
-Izbrali si boste temo, s katero se bo vaš projekt ukvarjal.
-Tukaj boste napisali, kje ste dobili podatke, ter kakšen je vaš cilj.
+Analizirala bom 50 najbolj gledanih Youtube kanalov po številu gledanih ur. Primerjala jih bom glede na:
+*Število ogledov 
+*Število naročnikov kanala
+*Vsebina kanala
+*Država 
+*Jezik
+*Število ogledov najbolj gledanega posnetka na kanalu
+*Rast ogledov v zadnjih 30 dneh
+*Ocena vsebine kanala 
+
+Cilj mojega projekta je ugotoviti katere komponente najbolj vplivajo na gledanost posameznega Youtube kanala.
+
+Viri:
+
+*https://en.wikipedia.org/wiki/List_of_most-viewed_YouTube_channels#cite_note-SocialBlade-1
+*https://socialblade.com/youtube/top/trending/top-500-channels-30-days/most-subscribed
+*https://socialblade.com/youtube/top/50/mostviewed
 
 ## Program
 
