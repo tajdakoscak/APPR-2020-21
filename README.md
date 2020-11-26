@@ -8,22 +8,23 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2020/21
 ## Analiza najbolj gledanih Youtube kanalov
 
 Analizirala bom 50 najbolj gledanih Youtube kanalov po številu gledanih ur. Primerjala jih bom glede na:
-*Število ogledov 
-*Število naročnikov kanala
-*Vsebina kanala
-*Država 
-*Jezik
-*Število ogledov najbolj gledanega posnetka na kanalu
-*Rast ogledov v zadnjih 30 dneh
-*Ocena vsebine kanala 
+
+* Število ogledov 
+* Število naročnikov kanala
+* Vsebina kanala
+* Država
+* Jezik
+* Število ogledov najbolj gledanega posnetka na kanalu
+* Rast ogledov v zadnjih 30 dneh
+* Ocena vsebine kanala 
 
 Cilj mojega projekta je ugotoviti katere komponente najbolj vplivajo na gledanost posameznega Youtube kanala.
 
 Viri:
 
-*https://en.wikipedia.org/wiki/List_of_most-viewed_YouTube_channels#cite_note-SocialBlade-1
-*https://socialblade.com/youtube/top/trending/top-500-channels-30-days/most-subscribed
-*https://socialblade.com/youtube/top/50/mostviewed
+* https://en.wikipedia.org/wiki/List_of_most-viewed_YouTube_channels#cite_note-SocialBlade-1
+* https://socialblade.com/youtube/top/trending/top-500-channels-30-days/most-subscribed
+* https://socialblade.com/youtube/top/50/mostviewed
 
 ## Program
 
