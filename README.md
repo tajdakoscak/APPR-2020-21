@@ -11,6 +11,7 @@ Analizirala bom 50 najbolj gledanih Youtube kanalov po številu gledanih ur. Pri
 
 * Število ogledov 
 * Število naročnikov kanala
+* Network kanala
 * Vsebina kanala
 * Država
 * Jezik
@@ -19,7 +20,7 @@ Analizirala bom 50 najbolj gledanih Youtube kanalov po številu gledanih ur. Pri
 * Rast naročnikov v zadnjiih 30 dneh
 * Ocena vsebine kanala 
 
-Cilj mojega projekta je ugotoviti katere komponente najbolj vplivajo na gledanost posameznega Youtube kanala.
+Cilj mojega projekta je ugotoviti katere komponente najbolj vplivajo na gledanost posameznega Youtube kanala. V okviru projekta bom najprej ugotovila kako vpliva
 
 Viri:
 
