@@ -16,6 +16,7 @@ Analizirala bom 50 najbolj gledanih Youtube kanalov po številu gledanih ur. Pri
 * Jezik
 * Število ogledov najbolj gledanega posnetka na kanalu
 * Rast ogledov v zadnjih 30 dneh
+* Rast naročnikov v zadnjiih 30 dneh
 * Ocena vsebine kanala 
 
 Cilj mojega projekta je ugotoviti katere komponente najbolj vplivajo na gledanost posameznega Youtube kanala.
@@ -23,9 +24,16 @@ Cilj mojega projekta je ugotoviti katere komponente najbolj vplivajo na gledanos
 Viri:
 
 * https://en.wikipedia.org/wiki/List_of_most-viewed_YouTube_channels#cite_note-SocialBlade-1
-* https://socialblade.com/youtube/top/trending/top-500-channels-30-days/most-subscribed
-* https://socialblade.com/youtube/top/50/mostviewed
+* https://socialblade.com/youtube/top
 
+1. tabela: pregled Youtube kanalov glede na število ogledov, število naročnikov, vsebino kanala ter oceno vsebine, Število ogledov najbolj gledanega posnetka na kanalu
+
+2. tabela: pregled Youtube kanalov glede na državo in jezik
+
+3. tabela: pregled rasti Youtube kanala v zadnjem mesecu glede na število novih ogledov in novih naročnikov
+
+
+ 
 ## Program
 
 Glavni program in poročilo se nahajata v datoteki `projekt.Rmd`.
