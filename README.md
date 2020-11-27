@@ -27,7 +27,7 @@ Viri:
 * https://en.wikipedia.org/wiki/List_of_most-viewed_YouTube_channels#cite_note-SocialBlade-1
 * https://socialblade.com/youtube/top
 
-1. tabela: pregled Youtube kanalov glede na število ogledov, število naročnikov, vsebino kanala ter oceno vsebine, Število ogledov najbolj gledanega posnetka na kanalu
+1. tabela: pregled Youtube kanalov glede na število ogledov, število naročnikov, vsebino kanala ter oceno vsebine, število ogledov najbolj gledanega posnetka na kanalu
 
 2. tabela: pregled Youtube kanalov glede na državo in jezik
 
